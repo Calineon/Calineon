@@ -5,6 +5,7 @@ I'm learning programming
 i have experience in c++
 love java 
 ![Alihan' GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Alihan'GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 <!--
 **Calineon/Calineon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
