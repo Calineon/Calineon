@@ -4,7 +4,7 @@ I'm learning programming
 17 years old
 i have experience in c++
 love java 
-
+[![Alihan's Github Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Calineon/Calineon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
