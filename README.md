@@ -1,5 +1,10 @@
 ## Hi there 👋 my name is Alihan
 I'm learning programming  
+🚀about me
+17 years old
+i have experience in c++
+love java 
+
 <!--
 **Calineon/Calineon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
